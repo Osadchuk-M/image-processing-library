@@ -1,0 +1,5 @@
+Tasks:
+    + A small set of diagrams or documentation that can explain how the solution works and addresses requirements.
+    + Description of library interface or header file for integration.
+    + Pilot (initial) implementation of the core component responsible for parallelization and task planner (depending on the proposed implementation it can be broker, mediator, task planner, etc.) with mocking irrelative parts.
+    + Design and implementation should be performed according to best practices, rules, principles, patterns, etc.
